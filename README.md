@@ -1,10 +1,14 @@
 # tugas
 
-A new Flutter project.
+tugas  masih banyak kekurangan, masih butuh waktu memahami materi,
+
+selain tergangu dengan versi flutter yang sering angap error yang tdk perlu,
+
+saya masih butuh waktu untuk buat tugasnya.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+project ini adalah tugas untu memahami Getx 
 
 A few resources to get you started if this is your first Flutter project:
 
